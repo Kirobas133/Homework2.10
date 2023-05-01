@@ -1,0 +1,16 @@
+# ninja log v5
+10	527	7046765311239670	CMakeFiles/Homework2.10.2_Lib.dir/SquareSource.cpp.obj	d291149b211a43b0
+13	528	7046765311229737	CMakeFiles/Homework2.10.2_Lib.dir/Triangle90Source.cpp.obj	957c2c3a8108cb81
+3	528	7046765311234704	CMakeFiles/Homework2.10.2_Lib.dir/ParallelogramSource.cpp.obj	99e61cbf259071c5
+6	529	7046765311254571	CMakeFiles/Homework2.10.2_Lib.dir/RectangleSource.cpp.obj	7631fab2771ccf45
+11	529	7046765311249604	CMakeFiles/Homework2.10.2_Lib.dir/Triangle2SideEqualSource.cpp.obj	fb5f0742e13b0497
+8	530	7046765311264501	CMakeFiles/Homework2.10.2_Lib.dir/RhombusSource.cpp.obj	70e00d7c1367a47f
+5	534	7046765311324104	CMakeFiles/Homework2.10.2_Lib.dir/QuadrilateralSource.cpp.obj	bb4708d337508632
+15	534	7046765311329071	CMakeFiles/Homework2.10.2_Lib.dir/TriangleAllEqualSource.cpp.obj	b0407c16361d7537
+16	535	7046765311319136	CMakeFiles/Homework2.10.2_Lib.dir/TriangleSource.cpp.obj	7d1f9fb3e25b280d
+19	535	7046765311319136	CMakeFiles/Homework2.10.2.dir/Homework2.6.3.cpp.obj	65fa9a08ee405463
+1	537	7046765311363833	CMakeFiles/Homework2.10.2_Lib.dir/FigureSource.cpp.obj	33b72e9fea7499e
+537	592	7046765311905206	Homework2.10.2_Lib.lib	7adec677962f9911
+592	758	7046765313395018	Homework2.10.2.exe	b6e92eef1628308e
+6	195	7046765627881727	CMakeFiles/Homework2.10.2.dir/Homework2.6.3.cpp.obj	65fa9a08ee405463
+195	280	7046765628489262	Homework2.10.2.exe	b6e92eef1628308e
